@@ -1,0 +1,26 @@
+[
+    {
+        "name": "libdc-for-dirk",
+        "language": "C"
+    },
+    {
+        "name": "linux",
+        "language": "C"
+    },
+    {
+        "name": "pesconvert",
+        "language": "C"
+    },
+    {
+        "name": "subsurface-for-dirk",
+        "language": "C++"
+    },
+    {
+        "name": "test-tlb",
+        "language": "C"
+    },
+    {
+        "name": "uemacs",
+        "language": "C"
+    }
+]
