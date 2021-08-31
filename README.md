@@ -1,7 +1,14 @@
 ## Geekbrains: методы сбора и обработки данных из сети Интернет
-### Как использовать:
+### Как использовать (Mac OS):
+
 ```shell
-pip install -r requirements.txt 
+$ python3 -m venv myvenv
+```
+```shell
+$ . myvenv/bin/activate
+```
+```shell
+$ pip install -r requirements.txt 
 ```
 ### Уроки:
 1. #### Основы клиент-серверного взаимодействия. Парсинг API
