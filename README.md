@@ -2,13 +2,13 @@
 ### Как использовать (Mac OS):
 
 ```shell
-$ python3 -m venv myvenv
+python3 -m venv myvenv
 ```
 ```shell
-$ . myvenv/bin/activate
+. myvenv/bin/activate
 ```
 ```shell
-$ pip install -r requirements.txt 
+pip install -r requirements.txt 
 ```
 ### Уроки:
 1. #### Основы клиент-серверного взаимодействия. Парсинг API
