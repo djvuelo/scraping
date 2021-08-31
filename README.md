@@ -1,5 +1,5 @@
 ## Geekbrains: методы сбора и обработки данных из сети Интернет
-### Как использовать (Mac OS):
+### Как использовать (Mac OS terminal):
 
 ```shell
 python3 -m venv myvenv
