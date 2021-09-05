@@ -1,0 +1,39 @@
+{
+    "success": true,
+    "response": {
+        "kind": "youtube#videoListResponse",
+        "etag": "KtBRZ4nmODAlp8sWx9T7m7Wt3fI",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "AZrzEKYgA0CvwNsXLEBnt8I74T8",
+                "id": "DWcJFNfaw9c"
+            },
+            {
+                "kind": "youtube#video",
+                "etag": "Y0jA52uOAoHOEkYUtYQZl-VUtCw",
+                "id": "-5KAN9_CzSA"
+            },
+            {
+                "kind": "youtube#video",
+                "etag": "vNQCCArhUAwEI1__pOfnvtiT3D0",
+                "id": "5qap5aO4i9A"
+            },
+            {
+                "kind": "youtube#video",
+                "etag": "NnsGEAJbWQ-wuuxtIQg6SDz_2Vg",
+                "id": "52-ZDzudMs4"
+            },
+            {
+                "kind": "youtube#video",
+                "etag": "xMPgFSsKg57qycIt6-2S2o8xtMI",
+                "id": "XZFPuBRKWFU"
+            }
+        ],
+        "nextPageToken": "CAUQAA",
+        "pageInfo": {
+            "totalResults": 10,
+            "resultsPerPage": 5
+        }
+    }
+}
