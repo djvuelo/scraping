@@ -1,0 +1,707 @@
+{
+    "\u0410": [
+        {
+            "count": 11527,
+            "query": "L_save_area=true&area=1217",
+            "seoDomain": "barnaul.hh.ru",
+            "order": 19,
+            "title": "\u0410\u043b\u0442\u0430\u0439\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+            "id": "1217"
+        },
+        {
+            "count": 3484,
+            "query": "L_save_area=true&area=1932",
+            "seoDomain": "blagoveschensk.hh.ru",
+            "order": 54,
+            "title": "\u0410\u043c\u0443\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "id": "1932"
+        },
+        {
+            "count": 4387,
+            "query": "L_save_area=true&area=1008",
+            "seoDomain": "arkhangelsk.hh.ru",
+            "order": 49,
+            "title": "\u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "id": "1008"
+        },
+        {
+            "count": 3414,
+            "query": "L_save_area=true&area=1505",
+            "seoDomain": "astrakhan.hh.ru",
+            "order": 55,
+            "title": "\u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "id": "1505"
+        }
+    ],
+    "\u0411": [
+        {
+            "count": 7629,
+            "query": "L_save_area=true&area=1817",
+            "seoDomain": "belgorod.hh.ru",
+            "order": 35,
+            "title": "\u0411\u0435\u043b\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "id": "1817"
+        },
+        {
+            "count": 4435,
+            "query": "L_save_area=true&area=1828",
+            "seoDomain": "bryansk.hh.ru",
+            "order": 48,
+            "title": "\u0411\u0440\u044f\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "id": "1828"
+        }
+    ],
+    "\u0412": [
+        {
+            "count": 8713,
+            "query": "L_save_area=true&area=1716",
+            "seoDomain": "vladimir.hh.ru",
+            "order": 27,
+            "title": "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "id": "1716"
+        },
+        {
+            "count": 10712,
+            "query": "L_save_area=true&area=1511",
+            "seoDomain": "volgograd.hh.ru",
+            "order": 21,
+            "title": "\u0412\u043e\u043b\u0433\u043e\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "id": "1511"
+        },
+        {
+            "count": 6120,
+            "query": "L_save_area=true&area=1739",
+            "seoDomain": "vologda.hh.ru",
+            "order": 41,
+            "title": "\u0412\u043e\u043b\u043e\u0433\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "id": "1739"
+        },
+        {
+            "count": 16711,
+            "query": "L_save_area=true&area=1844",
+            "seoDomain": "voronezh.hh.ru",
+            "order": 14,
+            "title": "\u0412\u043e\u0440\u043e\u043d\u0435\u0436\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "id": "1844"
+        }
+    ],
+    "\u0415": [
+        {
+            "count": 359,
+            "query": "L_save_area=true&area=1941",
+            "seoDomain": "birobidzhan.hh.ru",
+            "order": 79,
+            "title": "\u0415\u0432\u0440\u0435\u0439\u0441\u043a\u0430\u044f \u0410\u041e",
+            "id": "1941"
+        }
+    ],
+    "\u0417": [
+        {
+            "count": 2949,
+            "query": "L_save_area=true&area=1192",
+            "seoDomain": "chita.hh.ru",
+            "order": 59,
+            "title": "\u0417\u0430\u0431\u0430\u0439\u043a\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+            "id": "1192"
+        }
+    ],
+    "\u0418": [
+        {
+            "count": 5751,
+            "query": "L_save_area=true&area=1754",
+            "seoDomain": "ivanovo.hh.ru",
+            "order": 45,
+            "title": "\u0418\u0432\u0430\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "id": "1754"
+        },
+        {
+            "count": 14010,
+            "query": "L_save_area=true&area=1124",
+            "seoDomain": "irkutsk.hh.ru",
+            "order": 17,
+            "title": "\u0418\u0440\u043a\u0443\u0442\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "id": "1124"
+        }
+    ],
+    "\u041a": [
+        {
+            "count": 618,
+            "query": "L_save_area=true&area=1463",
+            "seoDomain": "nalchik.hh.ru",
+            "order": 75,
+            "title": "\u041a\u0430\u0431\u0430\u0440\u0434\u0438\u043d\u043e-\u0411\u0430\u043b\u043a\u0430\u0440\u0441\u043a\u0430\u044f \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+            "id": "1463"
+        },
+        {
+            "count": 6276,
+            "query": "L_save_area=true&area=1020",
+            "seoDomain": "kaliningrad.hh.ru",
+            "order": 40,
+            "title": "\u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "id": "1020"
+        },
+        {
+            "count": 7674,
+            "query": "L_save_area=true&area=1859",
+            "seoDomain": "kaluga.hh.ru",
+            "order": 34,
+            "title": "\u041a\u0430\u043b\u0443\u0436\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "id": "1859"
+        },
+        {
+            "count": 1088,
+            "query": "L_save_area=true&area=1943",
+            "seoDomain": "petropavlovsk-kamchatskij.hh.ru",
+            "order": 72,
+            "title": "\u041a\u0430\u043c\u0447\u0430\u0442\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+            "id": "1943"
+        },
+        {
+            "count": 481,
+            "query": "L_save_area=true&area=1471",
+            "seoDomain": "cherkessk.hh.ru",
+            "order": 78,
+            "title": "\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+            "id": "1471"
+        },
+        {
+            "count": 14203,
+            "query": "L_save_area=true&area=1229",
+            "seoDomain": "kemerovo.hh.ru",
+            "order": 16,
+            "title": "\u041a\u0435\u043c\u0435\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "id": "1229"
+        },
+        {
+            "count": 6723,
+            "query": "L_save_area=true&area=1661",
+            "seoDomain": "kirov.hh.ru",
+            "order": 38,
+            "title": "\u041a\u0438\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "id": "1661"
+        },
+        {
+            "count": 3657,
+            "query": "L_save_area=true&area=1771",
+            "seoDomain": "kostroma.hh.ru",
+            "order": 52,
+            "title": "\u041a\u043e\u0441\u0442\u0440\u043e\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "id": "1771"
+        },
+        {
+            "count": 42448,
+            "query": "L_save_area=true&area=1438",
+            "seoDomain": "krasnodar.hh.ru",
+            "order": 4,
+            "title": "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+            "id": "1438"
+        },
+        {
+            "count": 19912,
+            "query": "L_save_area=true&area=1146",
+            "seoDomain": "krasnoyarsk.hh.ru",
+            "order": 13,
+            "title": "\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+            "id": "1146"
+        },
+        {
+            "count": 3379,
+            "query": "L_save_area=true&area=1308",
+            "seoDomain": "kurgan.hh.ru",
+            "order": 56,
+            "title": "\u041a\u0443\u0440\u0433\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "id": "1308"
+        },
+        {
+            "count": 4551,
+            "query": "L_save_area=true&area=1880",
+            "seoDomain": "kursk.hh.ru",
+            "order": 47,
+            "title": "\u041a\u0443\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "id": "1880"
+        }
+    ],
+    "\u041b": [
+        {
+            "count": 10220,
+            "query": "L_save_area=true&area=145",
+            "order": 24,
+            "title": "\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "id": "145"
+        },
+        {
+            "count": 6089,
+            "query": "L_save_area=true&area=1890",
+            "seoDomain": "lipetsk.hh.ru",
+            "order": 42,
+            "title": "\u041b\u0438\u043f\u0435\u0446\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "id": "1890"
+        }
+    ],
+    "\u041c": [
+        {
+            "count": 745,
+            "query": "L_save_area=true&area=1946",
+            "seoDomain": "magadan.hh.ru",
+            "order": 74,
+            "title": "\u041c\u0430\u0433\u0430\u0434\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "id": "1946"
+        },
+        {
+            "count": 191828,
+            "query": "L_save_area=true&area=1",
+            "seoDomain": "hh.ru",
+            "order": 1,
+            "title": "\u041c\u043e\u0441\u043a\u0432\u0430",
+            "id": "1"
+        },
+        {
+            "count": 75945,
+            "query": "L_save_area=true&area=2019",
+            "seoDomain": "hh.ru",
+            "order": 3,
+            "title": "\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "id": "2019"
+        },
+        {
+            "count": 4290,
+            "query": "L_save_area=true&area=1061",
+            "seoDomain": "murmansk.hh.ru",
+            "order": 50,
+            "title": "\u041c\u0443\u0440\u043c\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "id": "1061"
+        }
+    ],
+    "\u041d": [
+        {
+            "count": 92,
+            "query": "L_save_area=true&area=1985",
+            "seoDomain": "naryan-mar.hh.ru",
+            "order": 84,
+            "title": "\u041d\u0435\u043d\u0435\u0446\u043a\u0438\u0439 \u0410\u041e",
+            "id": "1985"
+        },
+        {
+            "count": 24894,
+            "query": "L_save_area=true&area=1679",
+            "seoDomain": "nn.hh.ru",
+            "order": 8,
+            "title": "\u041d\u0438\u0436\u0435\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "id": "1679"
+        },
+        {
+            "count": 2921,
+            "query": "L_save_area=true&area=1051",
+            "seoDomain": "novgorod.hh.ru",
+            "order": 61,
+            "title": "\u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "id": "1051"
+        },
+        {
+            "count": 24919,
+            "query": "L_save_area=true&area=1202",
+            "seoDomain": "novosibirsk.hh.ru",
+            "order": 7,
+            "title": "\u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "id": "1202"
+        }
+    ],
+    "\u041e": [
+        {
+            "count": 10600,
+            "query": "L_save_area=true&area=1249",
+            "seoDomain": "omsk.hh.ru",
+            "order": 22,
+            "title": "\u041e\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "id": "1249"
+        },
+        {
+            "count": 6431,
+            "query": "L_save_area=true&area=1563",
+            "seoDomain": "orenburg.hh.ru",
+            "order": 39,
+            "title": "\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "id": "1563"
+        },
+        {
+            "count": 3335,
+            "query": "L_save_area=true&area=1898",
+            "seoDomain": "orel.hh.ru",
+            "order": 57,
+            "title": "\u041e\u0440\u043b\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "id": "1898"
+        }
+    ],
+    "\u041f": [
+        {
+            "count": 5464,
+            "query": "L_save_area=true&area=1575",
+            "seoDomain": "penza.hh.ru",
+            "order": 46,
+            "title": "\u041f\u0435\u043d\u0437\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "id": "1575"
+        },
+        {
+            "count": 15049,
+            "query": "L_save_area=true&area=1317",
+            "seoDomain": "perm.hh.ru",
+            "order": 15,
+            "title": "\u041f\u0435\u0440\u043c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+            "id": "1317"
+        },
+        {
+            "count": 8188,
+            "query": "L_save_area=true&area=1948",
+            "order": 29,
+            "title": "\u041f\u0440\u0438\u043c\u043e\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+            "id": "1948"
+        },
+        {
+            "count": 2562,
+            "query": "L_save_area=true&area=1090",
+            "seoDomain": "pskov.hh.ru",
+            "order": 66,
+            "title": "\u041f\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "id": "1090"
+        }
+    ],
+    "\u0420": [
+        {
+            "count": 1197,
+            "query": "L_save_area=true&area=1422",
+            "seoDomain": "maikop.hh.ru",
+            "order": 71,
+            "title": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0410\u0434\u044b\u0433\u0435\u044f",
+            "id": "1422"
+        },
+        {
+            "count": 584,
+            "query": "L_save_area=true&area=1216",
+            "seoDomain": "gorno-altaisk.hh.ru",
+            "order": 76,
+            "title": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0410\u043b\u0442\u0430\u0439",
+            "id": "1216"
+        },
+        {
+            "count": 20807,
+            "query": "L_save_area=true&area=1347",
+            "seoDomain": "ufa.hh.ru",
+            "order": 11,
+            "title": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0430\u0448\u043a\u043e\u0440\u0442\u043e\u0441\u0442\u0430\u043d",
+            "id": "1347"
+        },
+        {
+            "count": 2912,
+            "query": "L_save_area=true&area=1118",
+            "seoDomain": "ulan-ude.hh.ru",
+            "order": 62,
+            "title": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0443\u0440\u044f\u0442\u0438\u044f",
+            "id": "1118"
+        },
+        {
+            "count": 1645,
+            "query": "L_save_area=true&area=1424",
+            "seoDomain": "makhachkala.hh.ru",
+            "order": 70,
+            "title": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0414\u0430\u0433\u0435\u0441\u0442\u0430\u043d",
+            "id": "1424"
+        },
+        {
+            "count": 209,
+            "query": "L_save_area=true&area=1434",
+            "seoDomain": "magas.hh.ru",
+            "order": 82,
+            "title": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0418\u043d\u0433\u0443\u0448\u0435\u0442\u0438\u044f",
+            "id": "1434"
+        },
+        {
+            "count": 504,
+            "query": "L_save_area=true&area=1553",
+            "seoDomain": "elista.hh.ru",
+            "order": 77,
+            "title": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u043b\u043c\u044b\u043a\u0438\u044f",
+            "id": "1553"
+        },
+        {
+            "count": 3003,
+            "query": "L_save_area=true&area=1077",
+            "seoDomain": "petrozavodsk.hh.ru",
+            "order": 58,
+            "title": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u0440\u0435\u043b\u0438\u044f",
+            "id": "1077"
+        },
+        {
+            "count": 2586,
+            "query": "L_save_area=true&area=1041",
+            "seoDomain": "syktyvkar.hh.ru",
+            "order": 65,
+            "title": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043c\u0438",
+            "id": "1041"
+        },
+        {
+            "count": 8511,
+            "query": "L_save_area=true&area=2114",
+            "order": 28,
+            "title": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0440\u044b\u043c",
+            "id": "2114"
+        },
+        {
+            "count": 2865,
+            "query": "L_save_area=true&area=1620",
+            "seoDomain": "yoshkar-ola.hh.ru",
+            "order": 63,
+            "title": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u0430\u0440\u0438\u0439 \u042d\u043b",
+            "id": "1620"
+        },
+        {
+            "count": 2614,
+            "query": "L_save_area=true&area=1556",
+            "seoDomain": "saransk.hh.ru",
+            "order": 64,
+            "title": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u043e\u0440\u0434\u043e\u0432\u0438\u044f",
+            "id": "1556"
+        },
+        {
+            "count": 2074,
+            "query": "L_save_area=true&area=1174",
+            "seoDomain": "yakutsk.hh.ru",
+            "order": 68,
+            "title": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0430\u0445\u0430 (\u042f\u043a\u0443\u0442\u0438\u044f)",
+            "id": "1174"
+        },
+        {
+            "count": 805,
+            "query": "L_save_area=true&area=1475",
+            "seoDomain": "vladikavkaz.hh.ru",
+            "order": 73,
+            "title": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u041e\u0441\u0435\u0442\u0438\u044f-\u0410\u043b\u0430\u043d\u0438\u044f",
+            "id": "1475"
+        },
+        {
+            "count": 31779,
+            "query": "L_save_area=true&area=1624",
+            "order": 6,
+            "title": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0422\u0430\u0442\u0430\u0440\u0441\u0442\u0430\u043d",
+            "id": "1624"
+        },
+        {
+            "count": 321,
+            "query": "L_save_area=true&area=1169",
+            "seoDomain": "kyzyl.hh.ru",
+            "order": 81,
+            "title": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0422\u044b\u0432\u0430",
+            "id": "1169"
+        },
+        {
+            "count": 2087,
+            "query": "L_save_area=true&area=1187",
+            "seoDomain": "abakan.hh.ru",
+            "order": 67,
+            "title": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0425\u0430\u043a\u0430\u0441\u0438\u044f",
+            "id": "1187"
+        },
+        {
+            "count": 24344,
+            "query": "L_save_area=true&area=1530",
+            "seoDomain": "rostov.hh.ru",
+            "order": 9,
+            "title": "\u0420\u043e\u0441\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "id": "1530"
+        },
+        {
+            "count": 6994,
+            "query": "L_save_area=true&area=1704",
+            "seoDomain": "ryazan.hh.ru",
+            "order": 37,
+            "title": "\u0420\u044f\u0437\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "id": "1704"
+        }
+    ],
+    "\u0421": [
+        {
+            "count": 23389,
+            "query": "L_save_area=true&area=1586",
+            "seoDomain": "samara.hh.ru",
+            "order": 10,
+            "title": "\u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "id": "1586"
+        },
+        {
+            "count": 80908,
+            "query": "L_save_area=true&area=2",
+            "seoDomain": "spb.hh.ru",
+            "order": 2,
+            "title": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+            "id": "2"
+        },
+        {
+            "count": 11020,
+            "query": "L_save_area=true&area=1596",
+            "seoDomain": "saratov.hh.ru",
+            "order": 20,
+            "title": "\u0421\u0430\u0440\u0430\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "id": "1596"
+        },
+        {
+            "count": 1662,
+            "query": "L_save_area=true&area=1960",
+            "seoDomain": "yuzhno-sakhalinsk.hh.ru",
+            "order": 69,
+            "title": "\u0421\u0430\u0445\u0430\u043b\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "id": "1960"
+        },
+        {
+            "count": 33234,
+            "query": "L_save_area=true&area=1261",
+            "order": 5,
+            "title": "\u0421\u0432\u0435\u0440\u0434\u043b\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "id": "1261"
+        },
+        {
+            "count": 4226,
+            "query": "L_save_area=true&area=1103",
+            "seoDomain": "smolensk.hh.ru",
+            "order": 51,
+            "title": "\u0421\u043c\u043e\u043b\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "id": "1103"
+        },
+        {
+            "count": 8724,
+            "query": "L_save_area=true&area=1481",
+            "seoDomain": "stavropol.hh.ru",
+            "order": 26,
+            "title": "\u0421\u0442\u0430\u0432\u0440\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+            "id": "1481"
+        }
+    ],
+    "\u0422": [
+        {
+            "count": 3494,
+            "query": "L_save_area=true&area=1905",
+            "seoDomain": "tambov.hh.ru",
+            "order": 53,
+            "title": "\u0422\u0430\u043c\u0431\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "id": "1905"
+        },
+        {
+            "count": 7697,
+            "query": "L_save_area=true&area=1783",
+            "seoDomain": "tver.hh.ru",
+            "order": 32,
+            "title": "\u0422\u0432\u0435\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "id": "1783"
+        },
+        {
+            "count": 7685,
+            "query": "L_save_area=true&area=1255",
+            "seoDomain": "tomsk.hh.ru",
+            "order": 33,
+            "title": "\u0422\u043e\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "id": "1255"
+        },
+        {
+            "count": 9974,
+            "query": "L_save_area=true&area=1913",
+            "seoDomain": "tula.hh.ru",
+            "order": 25,
+            "title": "\u0422\u0443\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "id": "1913"
+        },
+        {
+            "count": 12263,
+            "query": "L_save_area=true&area=1342",
+            "seoDomain": "tyumen.hh.ru",
+            "order": 18,
+            "title": "\u0422\u044e\u043c\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "id": "1342"
+        }
+    ],
+    "\u0423": [
+        {
+            "count": 8099,
+            "query": "L_save_area=true&area=1646",
+            "seoDomain": "izhevsk.hh.ru",
+            "order": 30,
+            "title": "\u0423\u0434\u043c\u0443\u0440\u0442\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+            "id": "1646"
+        },
+        {
+            "count": 6071,
+            "query": "L_save_area=true&area=1614",
+            "seoDomain": "ulyanovsk.hh.ru",
+            "order": 43,
+            "title": "\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "id": "1614"
+        }
+    ],
+    "\u0425": [
+        {
+            "count": 7119,
+            "query": "L_save_area=true&area=1975",
+            "seoDomain": "khabarovsk.hh.ru",
+            "order": 36,
+            "title": "\u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+            "id": "1975"
+        },
+        {
+            "count": 7802,
+            "query": "L_save_area=true&area=1368",
+            "seoDomain": "khanty-mansiysk.hh.ru",
+            "order": 31,
+            "title": "\u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0410\u041e - \u042e\u0433\u0440\u0430",
+            "id": "1368"
+        }
+    ],
+    "\u0427": [
+        {
+            "count": 20368,
+            "query": "L_save_area=true&area=1384",
+            "seoDomain": "chelyabinsk.hh.ru",
+            "order": 12,
+            "title": "\u0427\u0435\u043b\u044f\u0431\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "id": "1384"
+        },
+        {
+            "count": 340,
+            "query": "L_save_area=true&area=1500",
+            "seoDomain": "groznyj.hh.ru",
+            "order": 80,
+            "title": "\u0427\u0435\u0447\u0435\u043d\u0441\u043a\u0430\u044f \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+            "id": "1500"
+        },
+        {
+            "count": 5866,
+            "query": "L_save_area=true&area=1652",
+            "seoDomain": "cheboksary.hh.ru",
+            "order": 44,
+            "title": "\u0427\u0443\u0432\u0430\u0448\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+            "id": "1652"
+        },
+        {
+            "count": 92,
+            "query": "L_save_area=true&area=1982",
+            "seoDomain": "anadyr.hh.ru",
+            "order": 83,
+            "title": "\u0427\u0443\u043a\u043e\u0442\u0441\u043a\u0438\u0439 \u0410\u041e",
+            "id": "1982"
+        }
+    ],
+    "\u042f": [
+        {
+            "count": 2936,
+            "query": "L_save_area=true&area=1414",
+            "seoDomain": "salekhard.hh.ru",
+            "order": 60,
+            "title": "\u042f\u043c\u0430\u043b\u043e-\u041d\u0435\u043d\u0435\u0446\u043a\u0438\u0439 \u0410\u041e",
+            "id": "1414"
+        },
+        {
+            "count": 10282,
+            "query": "L_save_area=true&area=1806",
+            "seoDomain": "yaroslavl.hh.ru",
+            "order": 23,
+            "title": "\u042f\u0440\u043e\u0441\u043b\u0430\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "id": "1806"
+        }
+    ]
+}
